@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Islamic Prayer Times</string>
+    <string name="dialog_please_wait">Please wait...</string>
+    <string name="location_permission_rationale">Location permission is required to get accurate prayer times for your location.</string>
+    <string name="notification_permission_rationale">Notification permission is required to alert you for prayer times.</string>
+    <string name="exact_alarm_permission_rationale">Exact alarm permission is required to play Azan at precise prayer times.</string>
+</resources>
